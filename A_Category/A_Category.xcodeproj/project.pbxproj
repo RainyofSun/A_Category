@@ -11,7 +11,7 @@
 		1327F7772553A17200111281 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1327F7762553A17200111281 /* Assets.xcassets */; };
 		1327F77A2553A17200111281 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1327F7782553A17200111281 /* LaunchScreen.storyboard */; };
 		1327F77D2553A17200111281 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1327F77C2553A17200111281 /* main.m */; };
-		1327F7842553A2A800111281 /* R_Category.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 1327F7832553A2A800111281 /* R_Category.podspec */; };
+		1327F7842553A2A800111281 /* LR_Category.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 1327F7832553A2A800111281 /* LR_Category.podspec */; };
 		1327F7882553A38D00111281 /* CTMediator+A.m in Sources */ = {isa = PBXBuildFile; fileRef = 1327F7872553A38D00111281 /* CTMediator+A.m */; };
 		9484981457C631FC9061D227 /* Pods_A_Category.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69B3FFF85B1177FFF69A86FA /* Pods_A_Category.framework */; };
 /* End PBXBuildFile section */
@@ -25,7 +25,7 @@
 		1327F7792553A17200111281 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1327F77B2553A17200111281 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1327F77C2553A17200111281 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1327F7832553A2A800111281 /* R_Category.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = R_Category.podspec; sourceTree = "<group>"; };
+		1327F7832553A2A800111281 /* LR_Category.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LR_Category.podspec; sourceTree = "<group>"; };
 		1327F7862553A38D00111281 /* CTMediator+A.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CTMediator+A.h"; sourceTree = "<group>"; };
 		1327F7872553A38D00111281 /* CTMediator+A.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CTMediator+A.m"; sourceTree = "<group>"; };
 		69B3FFF85B1177FFF69A86FA /* Pods_A_Category.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_A_Category.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,7 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				1327F7852553A30B00111281 /* Category */,
-				1327F7832553A2A800111281 /* R_Category.podspec */,
+				1327F7832553A2A800111281 /* LR_Category.podspec */,
 				1327F76A2553A17000111281 /* AppDelegate.h */,
 				1327F76B2553A17000111281 /* AppDelegate.m */,
 				1327F7762553A17200111281 /* Assets.xcassets */,
@@ -164,7 +164,7 @@
 			files = (
 				1327F77A2553A17200111281 /* LaunchScreen.storyboard in Resources */,
 				1327F7772553A17200111281 /* Assets.xcassets in Resources */,
-				1327F7842553A2A800111281 /* R_Category.podspec in Resources */,
+				1327F7842553A2A800111281 /* LR_Category.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
